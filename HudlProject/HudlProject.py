@@ -67,7 +67,7 @@ class TestLogin(unittest.TestCase):
         sleep(3)
         self.assertIn("We didn't recognize that email and/or password.", self.driver.page_source)
 
-    def test_LoginWithWrongUnAndPw(self):#Wrong username and wrong passowrd
+    def test_LoginWithWrongUnAndPw(self):#Wrong username and wrong password
         un = "wrongusername@outlook.com"
         pw = "wrongpassword"
         driver = self.driver
@@ -107,7 +107,7 @@ class TestLogin(unittest.TestCase):
         sleep(3)
         self.assertIn("We didn't recognize that email and/or password.", self.driver.page_source)
 
-    def test_LoginWithNoUnAndPw(self):
+    def test_LoginWithNoUnAndPw(self):#No username and no password
         un = "nathanyang18@outlook.com"
         pw = "test1234"
         driver = self.driver
