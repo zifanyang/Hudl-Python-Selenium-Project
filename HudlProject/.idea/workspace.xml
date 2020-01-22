@@ -80,7 +80,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for HudlProject.TestLogin.test_NeedHelp" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for HudlProject.TestLogin.test_RememberMe" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="HudlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +90,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;HudlProject.TestLogin.test_NeedHelp&quot;" />
+      <option name="_new_target" value="&quot;HudlProject.TestLogin.test_RememberMe&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -111,10 +111,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests for HudlProject.TestLogin" />
+        <item itemvalue="Python tests.Unittests for HudlProject.TestLogin.test_RememberMe" />
         <item itemvalue="Python tests.Unittests for HudlProject.TestLogin.test_Login" />
         <item itemvalue="Python tests.Unittests for HudlProject.TestLogin.test_LoginWithNoUnAndPw" />
         <item itemvalue="Python tests.Unittests in HudlProject.py" />
-        <item itemvalue="Python tests.Unittests for HudlProject.TestLogin.test_NeedHelp" />
       </list>
     </recent_temporary>
   </component>
